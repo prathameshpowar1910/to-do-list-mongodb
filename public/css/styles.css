@@ -1,6 +1,6 @@
 html {
-  background-color: #E4E9FD;
-  background-image: -webkit-linear-gradient(65deg, #224488 50%, #E4E9FD 50%);
+  background-color: #e7ef;
+  background: linear-gradient(#e7ef, #224488);
   min-height: 1000px;
   font-family: 'helvetica neue';
 }
